@@ -13,6 +13,6 @@ void toh(int n,char src,char dest,char helper){
 }
 
 int main(){
-    toh(5,'A','C','B');
+    toh(6,'A','C','B');
     cout<<("steps are " + to_string(i));
 }
