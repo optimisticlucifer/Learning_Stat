@@ -1,0 +1,4 @@
+string str1 = "Apples are red";
+string str2 = str1.substr(11, 3); // "red"
+string str3 = str1.substr(0, 6); // "Apples"
+-----------------------------------------------------------
